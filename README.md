@@ -32,4 +32,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 ---
-##......................................[about me](https://songnl.github.io/Musicresume-master/index.html)...............................................
+##.[about me](https://songnl.github.io/Musicresume-master/index.html)
