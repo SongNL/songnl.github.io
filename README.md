@@ -1,21 +1,18 @@
 ## 前端学习路线
 
 ###学习目标
-html
-css
-javascript
+
+![Image](https://songnl.github.io/learningpath/WG34.jpg)
 
 ##IT修真院css九宫格
+
 任务一
 
 [九宫格 使用vw视窗单位实现自适应](https://songnl.github.io/demo/VW.html)
+
+[九宫格 使用flex实现自适应](https://songnl.github.io/demo/flex.html)
+
 [九宫格 使用padding实现自适应](https://songnl.github.io/demo/padding.html)
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -34,13 +31,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+姓名|技能|排行
+--|:--:|--:
+刘备|哭|大哥
+关羽|打|二哥
+张飞|骂|三弟
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SongNL/songnl.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## .																		[about me](https://songnl.github.io/Musicresume-master/index.html)
