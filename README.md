@@ -31,10 +31,5 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-姓名|技能|排行
---|:--:|--:
-刘备|哭|大哥
-关羽|打|二哥
-张飞|骂|三弟
-
-## .																		[about me](https://songnl.github.io/Musicresume-master/index.html)
+---
+##......................................[about me](https://songnl.github.io/Musicresume-master/index.html)...............................................
