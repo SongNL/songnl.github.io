@@ -7,8 +7,9 @@ javascript
 
 ##IT修真院css九宫格
 任务一
-[九宫格 使用vw视窗单位实现自适应](https://songnl.github.io/demo/%E4%B9%9D%E5%AE%AB%E6%A0%BCvw.html/)
+[九宫格 使用vw视窗单位实现自适应](https://songnl.github.io/demo/vw.html/)
 
+[九宫格 使用padding实现自适应](https://songnl.github.io/demo/padding.html/)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
