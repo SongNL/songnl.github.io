@@ -1,0 +1,21 @@
+body{
+            margin: 0;
+        }
+		.box {
+            width: 99vw;   
+            padding: 0.5vw;
+        }
+        .box:after{
+            content: '';
+            clear: both;
+            display: block;
+        }
+       /*下面的理解，上面是什么原理搞不明白*/
+        .block{
+			background: orange;
+			border-radius: 5vw;
+			width: 31vw;
+			padding-top: 30vw;
+			margin: 1vw;
+			float: left; 
+		}

@@ -1,0 +1,12 @@
+.box{
+            width: 100%;
+            display:flex;
+            flex-wrap: wrap;
+        }
+        .block{
+            background: orange;
+            border-radius: 20%;
+            width:32.3%;
+            margin:0.5%;
+            padding-top: 30%;
+        }
