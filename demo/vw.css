@@ -1,21 +1,21 @@
-body{
-            margin: 0;
-        }
-		.box {
-            width: 99vw;   
-            padding: 0.5vw;
-        }
-        .box:after{
-            content: '';
-            clear: both;
-            display: block;
-        }
-       /*下面的理解，上面是什么原理搞不明白*/
-        .block{
-			background: orange;
-			border-radius: 5vw;
-			width: 31vw;
-			padding-top: 30vw;
-			margin: 1vw;
-			float: left; 
-		}
+*{
+    margin: 0vw;
+    padding: 0vw;
+}
+.box:after{
+    content: '';
+    clear: both;
+    display: block;
+}
+.block{
+	background: orange;
+	border-radius: 5vw;
+	width: 30vw;
+	padding-top: 30vw;
+	margin: 2.5vw 0 0 2.5vw;
+	float: left; 
+}
+a{
+    display: inline-block;
+    margin-top: 5%;
+}
