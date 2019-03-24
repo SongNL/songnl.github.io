@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>登录页面</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1 ">
+	<style type="text/css">
+	*{
+		margin: 0;
+		padding: 0;
+	}
+	html{
+		font-size: 62.5%;
+		background-color: rgb(238,240,244);
+	}
+	header{
+		background-color: rgb(90,192,206);
+		width: 100%;
+		text-align: center;
+		padding: 1.5rem 0 1.5rem 0;
+		font-size: 1.5rem;
+		color: white;
+	}
+	.register{
+		float: left;
+		padding-left:1rem; 
+	}
+	.close{
+		float: right;
+		padding-right: 1rem;
+	}
+	div img{
+		border-right: inset;
+		padding-right: 1rem;
+		margin: 1rem;
+		border-width: 0.1rem;
+	}
+	div input{
+		border: 0;
+		height: 2rem;
+		position: relative;
+		top: -1.5rem;
+		outline: none;
+	}
+	.user{
+		background-color: white;
+		margin: 0.6rem 0 0.6rem 0;
+		height: 4rem;
+	}
+	.pass{
+		background-color: white;
+		margin-bottom: 0.6rem;
+		height:  4rem;
+	}
+	.but{
+		background-color: rgb(90,192,206);
+		width: 100%;
+		border: 0;
+		color: white;
+		padding: 1.5rem 0 1.5rem 0;
+		font-size: 1.8rem;
+	}
+	.reset a,.reset{
+		color: rgb(90,192,206);
+		float: right;
+	}
+	</style>
+</head>
+<body>
+	<header>
+		<span class="register">register</span>
+		<span class="login">login</span>
+		<span class="close">close</span>
+	</header>
+	<main>
+		<frame>
+			<div class="user"><img src="login1.png">
+				<input type="text" name="account" placeholder="请输入手机号">
+			</div>
+			<div class="pass"><img src="login2.png">
+				<input type="password" name="pass" placeholder="请输入密码">
+			</div>
+			<button class="but">login</button>
+		</frame>
+	</main>
+	<div class="reset"><a href="">fagertpassworld?</a></div>
+</body>
+</html>
